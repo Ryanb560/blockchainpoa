@@ -1,6 +1,8 @@
 # blockchainpoa
 Ryan Brock
+
 Assignment: Blockchain - Week 18
+
 Summary: Purpose of this assignment is to create a custom blockchain with 2 test nodes deployed on custom test network, and create a MyCrypto wallet to send & confirm a transaction
 
 ![NODE 1 2](https://user-images.githubusercontent.com/80288388/128085633-30552234-397c-4cc5-a68f-e701c5006252.png)
